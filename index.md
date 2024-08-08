@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: 欢迎来到LK的博客
 ---
 
+# 实践是检验真理的唯一标准
